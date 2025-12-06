@@ -33,4 +33,4 @@ The goal: predict whether a passenger survived the Titanic disaster using Python
 1. Clone this repository:
 
 ```bash
-git clone <repository-url>
+https://github.com/shabd710/titanic_ml_project/tree/main
